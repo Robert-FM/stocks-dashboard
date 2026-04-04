@@ -48,7 +48,7 @@ STOCKS-DASHBOARD/
 - 📉 Gráficos interativos para análise exploratória
 - 🧩 Interface organizada com separação entre dados, lógica e UI
 
----
+```
 
 ## ▶️ Como Executar
 
@@ -58,7 +58,6 @@ STOCKS-DASHBOARD/
 git clone https://github.com/seu-usuario/stocks-dashboard.git
 cd stocks-dashboard
 ```
-
 
 ### 2. Configurar o ambiente
 
@@ -122,7 +121,7 @@ streamlit run app.py
 - Comparação entre múltiplos ativos
 - Alertas inteligentes de mercado
 
-##Desenvolvido por:
+## Desenvolvido por:
 
 - 📎 LinkedIn: [robertdemelo](https://www.linkedin.com/in/robertdemelo)
 - 📎 GitHub: [Robert-FM](https://github.com/Robert-FM}{github.com/Robert-FM)
