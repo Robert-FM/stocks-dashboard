@@ -41,12 +41,14 @@ STOCKS-DASHBOARD/
 
 ## 📊 Funcionalidades
 
-- 📈 Visualização do desempenho de ativos do IBOV
+- 📈 Visualização de desempenho de ativos do IBOV
 - 🔍 Filtros dinâmicos por período e/ou ativo
 - 📅 Análise de séries temporais (histórico de preços)
 - ⚡ Cálculo de métricas financeiras (variação, retorno, etc.)
 - 📉 Gráficos interativos para análise exploratória
 - 🧩 Interface organizada com separação entre dados, lógica e UI
+
+---
 
 ## ▶️ Como Executar
 
@@ -57,7 +59,6 @@ git clone https://github.com/seu-usuario/stocks-dashboard.git
 cd stocks-dashboard
 ```
 
----
 
 ### 2. Configurar o ambiente
 
