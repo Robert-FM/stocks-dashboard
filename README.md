@@ -41,7 +41,7 @@ STOCKS-DASHBOARD/
 
 ## 📊 Funcionalidades
 
-- 📈 Visualização de desempenho de ativos do IBOV
+- 📈 Visualização de desempenho de ativos da B3
 - 🔍 Filtros dinâmicos por período e/ou ativo
 - 📅 Análise de séries temporais (histórico de preços)
 - ⚡ Cálculo de métricas financeiras (variação, retorno, etc.)
@@ -55,7 +55,7 @@ STOCKS-DASHBOARD/
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/stocks-dashboard.git
+git clone https://github.com/Robert-FM/stocks-dashboard.git
 cd stocks-dashboard
 ```
 
